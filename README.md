@@ -1,14 +1,20 @@
 # JavaScript Basics: Variables and Data Types
 
-This repository contains exercises and activities for learning the basics of JavaScript, focusing on variables and data types.
+Welcome to the JavaScript Basics project! This repository contains a series of exercises and activities designed to help you learn the fundamentals of JavaScript, focusing on variables and data types.
 
-## Activities
+## Table of Contents
 
-### Activity 1: Variable Declaration
+- [Introduction](#introduction)
+- [Activities](#activities)
+  - [Day 1: Variables and Data Types](#day-1-variables-and-data-types)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
 
-**Task 1:** Declare a variable using `var`, assign it a number, and log the value to the console.
+## Introduction
 
-```javascript
-var numberVar = 42;
-console.log(numberVar); // Output: 42
-```
+This project is structured to provide daily challenges that build your understanding of JavaScript. Each day focuses on a specific topic and includes various tasks to reinforce the concepts.
+
+## Challenges
+
+### Day 1: Variables and Data Types
