@@ -1,15 +1,14 @@
-# JavaScript Basics: Variables and Data Types
+# JavaScript Challenges
+
+![Description](Day-1/Screenshot%202024-07-13%20210455.jpg)
 
 Welcome to the JavaScript Basics project! This repository contains a series of exercises and activities designed to help you learn the fundamentals of JavaScript, focusing on variables and data types.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Activities](#activities)
+- [Challenges](#challenges)
   - [Day 1: Variables and Data Types](#day-1-variables-and-data-types)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
