@@ -16,4 +16,4 @@ This project is structured to provide daily challenges that build your understan
 
 ## Challenges
 
-### Day 1: Variables and Data Types
+#### Day 1: Variables and Data Types
