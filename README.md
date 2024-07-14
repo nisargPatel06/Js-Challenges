@@ -5,3 +5,5 @@ This project is structured to provide daily challenges that build understanding 
 ## Challenges
 
 ### Day 1: Variables and Data Types
+
+### Day 2: Operators
