@@ -9,7 +9,9 @@ if (value > 0) {
 }
 
 const age = 18;
-if (age >= 18) {
+if (age < 1) {
+  console.log(`age: ${age} (Invalid!)`);
+} else if (age >= 18) {
   console.log(`age: ${age} (Person is eligible to vote..)`);
 } else {
   console.log(`age: ${age} (Not eligible!)`);
