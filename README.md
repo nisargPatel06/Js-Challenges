@@ -13,3 +13,5 @@ This project is structured to provide daily challenges that build understanding 
 ### Day 4: Loops
 
 ### Day 5: Functions
+
+### Day 6: Arrays
