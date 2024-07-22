@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Day-10</title>
+    <style>
+      #toggleImg {
+        margin-top: 10px;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        width: fit-content;
+        height: fit-content;
+        border: 2px solid black;
+      }
+      #toggleImg > img {
+        width: 250px;
+        height: 150px;
+      }
+      #toggleBg {
+        height: 100px;
+        width: 150px;
+        background-color: lightblue;
+      }
+      #keyboard {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+      }
+      #keyboard > input {
+        width: 200px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h3>Click events</h3>
+      <p id="changeText">This text will change when button is clicked..</p>
+      <button id="btn-1">Change text</button>
+      <div id="toggleImg">
+        <img
+          src="https://images.unsplash.com/photo-1721497684662-cf36f0ee232e?q=80&w=1399&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          alt="A field with mountain in background"
+        />
+      </div>
+    </div>
+
+    <div>
+      <h3>Mouse events</h3>
+      <div id="toggleBg"></div>
+    </div>
+
+    <div id="keyboard">
+      <h3>Keyboard events</h3>
+      <div>
+        After typing check console :
+        <input type="text" id="input-1" placeholder="Type something..." />
+      </div>
+      <div>
+        This will reflect below :
+        <input type="text" id="input-2" placeholder="Type something..." />
+      </div>
+      <p id="displatText">Current Value :</p>
+    </div>
+
+    <div>
+      <h3>Form events</h3>
+      <form method="post" id="userForm">
+        Name : <input type="text" name="name" required /> <br />
+        <br />
+        Email : <input type="text" name="email" required /><br />
+        <br />
+        Choose City :
+        <select name="city" id="city">
+          <option value="Surat">Surat</option>
+          <option value="Bangalore">Bangalore</option>
+          <option value="Ahmedabad">Ahmedabad</option>
+          <option value="Mumbai">Mumbai</option>
+        </select>
+        <p id="displayCity">Selected city : Surat</p>
+        <button type="submit" id="submitBtn">Submit</button>
+      </form>
+    </div>
+
+    <div>
+      <h3>Event Delegation</h3>
+      <ul id="list">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+      <div id="parent">
+        <button id="addChild">Add Child Element</button>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
