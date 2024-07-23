@@ -23,3 +23,5 @@ This project is structured to provide daily challenges that build understanding 
 ### Day 9: DOM Manipulation
 
 ### Day 10: Event Handling
+
+### Day 11: Promises and Async/Await
