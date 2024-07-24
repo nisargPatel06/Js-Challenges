@@ -25,3 +25,5 @@ This project is structured to provide daily challenges that build understanding 
 #### Day 10: Event Handling
 
 #### Day 11: Promises and Async/Await
+
+#### Day 12: Event Handling
