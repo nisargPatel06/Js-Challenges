@@ -26,4 +26,4 @@ This project is structured to provide daily challenges that build understanding 
 
 #### Day 11: Promises and Async/Await
 
-#### Day 12: Event Handling
+#### Day 12: Error Handling
