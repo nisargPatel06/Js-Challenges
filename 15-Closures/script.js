@@ -73,15 +73,12 @@ const itemManager = createItemManager();
 
 itemManager.addItem("Item1");
 itemManager.addItem("Item2");
-
 itemManager.listItems();
 
 itemManager.removeItem("Item1");
-
 itemManager.listItems();
 
 itemManager.removeItem("Item3");
-
 itemManager.listItems();
 
 function memoize(fn) {
