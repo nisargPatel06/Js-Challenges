@@ -37,3 +37,5 @@ This project is structured to provide daily challenges that build understanding 
 #### Day 16: Recursion
 
 #### Day 17: Data Structures
+
+#### Day 18: Algorithms
