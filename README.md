@@ -39,3 +39,5 @@ This project is structured to provide daily challenges that build understanding 
 #### Day 17: Data Structures
 
 #### Day 18: Algorithms
+
+#### Day 19: Regular Expressions
