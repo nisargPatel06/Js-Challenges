@@ -41,3 +41,5 @@ This project is structured to provide daily challenges that build understanding 
 #### Day 18: Algorithms
 
 #### Day 19: Regular Expressions
+
+#### Day 20: LocalStorage and SessionStorage
